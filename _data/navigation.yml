@@ -2,8 +2,7 @@
 main:
   - title: "CLAIRE"
     url: https://claire-ai.org/
-  - title: "About"
-    url: https://claire-ai.org
+ 
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
